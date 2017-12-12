@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>conf/1982.rom</file>
+        <file>conf/config.conf</file>
+        <file>conf/xpeccy.conf</file>
+        <file>images/xpeccy.png</file>
+        <file>font.bin</file>
+    </qresource>
+</RCC>
