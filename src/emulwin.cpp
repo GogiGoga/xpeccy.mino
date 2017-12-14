@@ -14,18 +14,18 @@
 #include <QKeyEvent>
 
 #include <fstream>
-#include <unistd.h>
+#include <io.h>
 #include <sys/stat.h>
 #include <sys/types.h>
 
-#include "xcore.h"
-#include "sound.h"
+#include "xcore/xcore.h"
+#include "xcore/sound.h"
 #include "emulwin.h"
 #include "filer.h"
 //#include "watcher.h"
 
-#include "vfilters.h"
-#include "vscalers.h"
+#include "xcore/vfilters.h"
+#include "xcore/vscalers.h"
 
 #include "version.h"
 

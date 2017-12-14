@@ -37,7 +37,7 @@ OutSys* findOutSys(const char*);
 
 // output
 
-#include "hardware.h"
+#include "hardware/hardware.h"
 
 // return 1 when buffer is full
 int sndSync(Computer* comp, int nosync, int fast) {

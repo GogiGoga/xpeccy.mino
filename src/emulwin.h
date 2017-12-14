@@ -13,7 +13,7 @@
 //#include "debuger.h"
 //#include "watcher.h"
 //#include "vkeyboard.h"
-#include "xcore.h"
+#include "xcore/xcore.h"
 //#include "xgui.h"
 #include "ethread.h"
 

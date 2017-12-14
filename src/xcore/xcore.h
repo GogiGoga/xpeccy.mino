@@ -8,7 +8,7 @@
 #include <QString>
 
 #include "spectrum.h"
-#include "filetypes.h"
+#include "filetypes/filetypes.h"
 
 // common
 

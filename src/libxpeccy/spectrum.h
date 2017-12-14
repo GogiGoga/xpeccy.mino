@@ -243,7 +243,7 @@ typedef struct {
 //	int tapCount;
 } Computer;
 
-#include "hardware.h"
+#include "hardware/hardware.h"
 
 Computer* compCreate();
 void compDestroy(Computer*);
